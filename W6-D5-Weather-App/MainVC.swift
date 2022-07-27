@@ -62,11 +62,3 @@ class MainVC: UIViewController {
     }
     
 }
-
-/*
- 110336 - dammmam
- 105343 - jeddah
- 110690 - abha
- */
-// test
-
